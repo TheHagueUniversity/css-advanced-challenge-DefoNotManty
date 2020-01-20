@@ -4,7 +4,7 @@ body, html {
 
 #mondriaan {
     background-color: #e3dac9;
-    width: 400px;
+    width: 800px;
     height: 400px;
     margin-top: 30px;
     margin-left: auto;
@@ -22,12 +22,23 @@ body, html {
 
 }
 
+#divider1 {
+    height: 400px;
+    width: 10px;
+}
+
+#divider2 {
+    height: 400px;
+    width: 10px;
+
+}
+
 .right {
     float: right;
 }
 
 .red {
-    background-color: #cc3333;
+    background-color: #800020;
 }
 
 }
