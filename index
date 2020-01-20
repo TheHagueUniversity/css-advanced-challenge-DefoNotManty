@@ -6,6 +6,8 @@
     <div id="mondriaan">
       <div id="toprow"></div>
         <div id="bigbox" class="red right"></div>
+        <div id="divider1" class="black right"></div>
+        <div id="divider2" class="black left"></div>
     </div>
   </body>
 </html>
