@@ -1,13 +1,42 @@
 body, html {
-    background-color: #e3dac9;
+    background-color: #888c8d;
 }
 
 #mondriaan {
     background-color: #e3dac9;
     width: 400px;
-    height: 1000px;
+    height: 400px;
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 5px 5px 5px #000000;
+}
 
+#toprow {
+    height: 0px;
+}
+
+#bigbox {
+    width: 200px;
+    height: 200px;
+
+}
+
+.right {
+    float: right;
+}
+
+.red {
+    background-color: #cc3333;
+}
+
+}
+.blue {
+    background-color: #87ceeb;
+}
+.yellow {
+    background-color: #87ceeb;
+}
+.black {
+    background-color: #000000;
 }
