@@ -1,0 +1,13 @@
+body, html {
+    background-color: #e3dac9;
+}
+
+#mondriaan {
+    background-color: #e3dac9;
+    width: 400px;
+    height: 1000px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
