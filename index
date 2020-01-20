@@ -4,6 +4,8 @@
   </head>
   <body>
     <div id="mondriaan">
+      <div id="toprow"></div>
+        <div id="bigbox" class="red right"></div>
     </div>
   </body>
 </html>
